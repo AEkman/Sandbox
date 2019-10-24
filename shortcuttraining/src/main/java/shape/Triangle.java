@@ -1,6 +1,6 @@
 package shape;
 
-public class Triangle implements Shape {
+public class Triangle implements shape.Shape {
 
   private static final int NUMBER_OF_CORNERS = 3;
 

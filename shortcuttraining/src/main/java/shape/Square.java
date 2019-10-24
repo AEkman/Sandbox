@@ -1,6 +1,6 @@
 package shape;
 
-public class Square implements Shape {
+public class Square implements shape.Shape {
 
   private static final int NUMBER_OF_EDGES = 4;
   private static final int NUMBER_OF_CORNERS = 4;
