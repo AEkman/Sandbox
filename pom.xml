@@ -6,8 +6,10 @@
 
   <name>master-pom</name>
   <modules>
+    <module>bankman</module>
     <module>memoization</module>
-    <module>memoization</module>
+    <module>shortcuttraining</module>
+    <module>streamzip</module>
   </modules>
 
   <artifactId>sandbox</artifactId>

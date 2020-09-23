@@ -6,12 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="shortcuttraining" />
+        <module name="memoization" />
+        <module name="bankman" />
+        <module name="streamzip" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="bankman" target="12" />
-      <module name="memoization" target="13" />
-      <module name="shortcuttraining" target="12" />
-    </bytecodeTargetLevel>
   </component>
 </project>
